@@ -2,7 +2,7 @@
   Selection Sort
   O(n^2) - time
 
-  Selection sort in only better than bubble sort when you want to minimize the
+  Selection sort is only better than bubble sort when you want to minimize the
   number of swaps you want to do.
 
   If you're worried about minimizing the amount of writes to memory, selection
