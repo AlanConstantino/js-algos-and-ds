@@ -6,7 +6,7 @@
   number of swaps you want to do.
 
   If you're worried about minimizing the amount of writes to memory, selection
-  sort can be good for that. It's still a slow sort algorithm though.
+  sort can be good for that. It's still a slow sorting algorithm though.
 */
 function selectionSort(array) {
   for (let i = 0; i < array.length; i++) {
